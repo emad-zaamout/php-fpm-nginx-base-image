@@ -2,9 +2,8 @@
 
 php, php-fpm, nginx base image configured for laravel.
 
-run `make` to see all supported makefile commands.
+run `make` to see all supported make commands.
 
-```
     Usage:
     make <target>
 
@@ -13,4 +12,3 @@ run `make` to see all supported makefile commands.
     build-all   Build local and prod containers.
     build-local  Build local containers.
     build-prod  Build prod containers.
-``
